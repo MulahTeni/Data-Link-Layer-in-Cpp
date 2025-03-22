@@ -1,4 +1,4 @@
-# Data Link Layer Simulation: CRC and Checksum Implementation
+# Data Link Layer Simulation
 
 This project demonstrates basic implementations of error detection techniques in the **Data Link Layer**, namely **CRC (Cyclic Redundancy Check)** and **Checksum**. It aims to simulate how data integrity can be verified in data communication systems using simple C++ logic.
 
