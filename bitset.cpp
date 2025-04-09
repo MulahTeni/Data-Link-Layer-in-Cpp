@@ -31,7 +31,7 @@ uint16_t calculateChecksum(vector<uint16_t>& crcResultsHex) {
 
     // Two's complement
     uint16_t checksum = static_cast<uint16_t>(~sum); 	// Ters çevirme // ~ bitwise NOT!
-    checksum += 1;										// 1 ekleme
+    checksum += 1;					// 1 ekleme
 
     return checksum;
 }
